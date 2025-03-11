@@ -13,7 +13,7 @@ A simple Python script that can build WebView's.
 ---
 
 ### To-Do
-- Add dark mode support
+- ✔️ Add dark mode support
 - Add app icon support & customisation
 - Add splash screen support & customisation
 - Add title bar text support & customisation
