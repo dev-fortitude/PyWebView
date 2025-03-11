@@ -19,4 +19,5 @@ A simple Python script that can build WebView's.
 - Add title bar text support & customisation
 - Add title bar icon support & customisation
 - Add title bar colour support & customisation
-- Add debugging (GUI & console integration)
+- ✔️ Add debugging (GUI & console integration)
+- Add EXE support (Python outputs in an executable binary)
